@@ -79,7 +79,7 @@
 ## 📊 GitHub Activity 📈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=9333ea&bg_color=00000000" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=codemyfyp&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=9333ea&bg_color=00000000" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
@@ -88,7 +88,7 @@
 ## ⚡ Contribution Graph 📈
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0D1117&color=38bdf8&line=9333ea&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codemyfyp&bg_color=0D1117&color=38bdf8&line=9333ea&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -104,13 +104,13 @@
 ## 🌐 Connect With Us 🤝
 
 <p align="center">
-  <a href="https://wa.me/91XXXXXXXXXX">
+  <a href="https://wa.me/919742658379">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:info@codemyfyp.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://go.codemyfyp.com">
     <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>

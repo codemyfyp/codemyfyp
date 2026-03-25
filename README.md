@@ -76,23 +76,6 @@
 
 ---
 
-## 📊 GitHub Activity 📈
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codemyfyp&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=9333ea&bg_color=00000000" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
----
-
-## ⚡ Contribution Graph 📈
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codemyfyp&bg_color=0D1117&color=38bdf8&line=9333ea&point=ffffff&area=true&hide_border=true" />
-</p>
-
----
-
 ## 🌟 Visual Highlights
 
 <p align="center">

@@ -27,10 +27,58 @@
 
 ## 🛠 Advanced Tech Stack & Tools ⚙️
 
-### 💻 Technologies We Work With
+### 💻 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,python,typescript,tailwind,java,docker,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,redux,bootstrap,sass&perline=10" />
+</p>
+
+---
+
+### 🧠 Backend Development & APIs
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,python,flask,django,rest,graphql&perline=10" />
+</p>
+
+---
+
+### 🗄️ Databases & Storage
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase,redis,supabase&perline=10" />
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&perline=10" />
+</p>
+
+---
+
+### 📱 Mobile App Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,flutter,react&perline=10" />
+</p>
+
+---
+
+### ⚙️ DevOps & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,vercel,netlify,nginx&perline=10" />
+</p>
+
+---
+
+### 🧰 Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,npm,yarn,bash&perline=10" />
 </p>
 
 ---

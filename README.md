@@ -1,6 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=CodeMyFYP&fontAlignY=40&color=0:38bdf8,100:9333ea&fontColor=ffffff&fontSize=48&desc=Final%20Year%20Projects%20%7C%20Internships%20%7C%20Developer%20Hub&descAlignY=65&descAlign=50" />
 </div>
+<meta name="google-site-verification" content="jvqDxxGg8N1dnk_B0jqpn2SdDVbOL8wdbQFXYRGHRIw" />
 
 ---
 
